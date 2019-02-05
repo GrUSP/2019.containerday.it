@@ -1,0 +1,6 @@
+# -
+#   speaker_id:
+#     - alessandro-mazzoli
+#   title: "KOPS - automate, version and deploy a fully production Kubernetes cluster on AWS"
+#   extract: >
+#     Vedrai come sarà possibile creare un cluster Kubernetes, subito production ready con https://github.com/kubernetes/kops, multi-AZ, multi-master generando infine un template Terraform con cui potrai mantenere la tua infrastruttura

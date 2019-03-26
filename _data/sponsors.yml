@@ -49,8 +49,8 @@ platinum:
   max: 8
   list:
     -
-      url: http://www.ideato.it?utm_source=containerday
-      image: ideato.svg
+      url: http://www.flowing.it?utm_source=containerday
+      image: flowing.svg
 
 gold:
   price: € 1,500

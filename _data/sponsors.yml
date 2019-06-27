@@ -66,7 +66,10 @@ silver:
     -
       url: https://www.workwave.com/?utm_source=containerday
       image: workwave.svg
-
+    -
+      url: https://www.biodec.it/?utm_source=containerday
+      image: biodec.svg
+      
 bronze:
   price: € 500
   offer:

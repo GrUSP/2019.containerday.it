@@ -1,74 +1,109 @@
 list:
+  # -
+  #   slug: progettare-evolvere-cloud-aws
+  #   title: Progettare e fare evolvere infrastrutture su AWS
+  #   when: 7 Novembre 2019, Bologna
+  #   where: Hotel Savoia Regency, Via del Pilastro 2, 40127, Bologna BO
+  #   map: https://goo.gl/maps/pT6toDSe3Em
+  #   ticket: /tickets.html
+  #   partner:
+  #     name: ideato
+  #     link: https://www.ideato.it
+  #   teacher:
+  #     -
+  #       name: Marco Colombo
+  #       picture: marco.png
+  #       bio: AWS Certified DevOPS at ideato
+  #       link: https://www.ideato.it
+  #   intro: |
+  #     Questo workshop è rivolto a sistemisti, cloud architect, it managers che già utilizzano i servizi di AWS e che vogliono approfondire gli aspetti legati al design di infrastrutture resilienti e altamente disponibili. Nella prima parte verranno analizzati i servizi che permettono di raggiungere questo obiettivo, fornendo tecniche avanzate e seguendo best practice consigliate da AWS. Nella seconda parte analizzeremo come aumentare la sicurezza delle infrastrutture AWS utilizzando i servizi base e quelli piu recenti tipicamente meno considerati
+  #   program: |
+  #     - Architetture tradizionali VS Design for failure
+  #     - Disegnare e implementare infrastrutture per applicazioni multi-tier scalabili e resilienti
+  #     - Disaster recovery e business continuity
+  #     - Gestione del rischio e servizi di protezione del dato su AWS
+  #     - Tecniche per disegnare infrastrutture per minimizzare e ottimizzare i costi
+  #
+  #   addressed_info: |
+  #     Alla fine del corso saprai disegnare e implementare infrastrutture cloud AWS performanti, sicure ed affidabili con un’attenzione anche al contenimento e ottimizzazione dei costi.
+  #   useful_info: |
+  #     La durata del corso è di una giornata e **si terrà il 7 Novembre** (il giorno prima della conferenza).
+  #     Qualche giorno prima del corso verrà fornito un voucer di accesso ai servizi AWS a tutti i partecipanti.
+  #     È responsabilità del partecipante arrivare con portatile configurato e funzionante. Vi daremo tutte le indicazioni utili per la configurazione.
   -
-    slug: progettare-evolvere-cloud-aws
-    title: Progettare e fare evolvere infrastrutture su AWS
-    when: 25 Ottobre 2018, Verona
-    where: Hotel San Marco, Via Longhena 42, 37138, Verona, Italy
-    map: https://goo.gl/maps/iqQ6n6bNAf72
+    slug: corso-ansible
+    title: Corso Ansible
+    when: 7 Novembre 2019, Bologna
+    where: Hotel Savoia Regency, Via del Pilastro 2, 40127, Bologna BO
+    map: https://goo.gl/maps/pT6toDSe3Em
     ticket: /tickets.html
     partner:
-      name: ideato
-      link: https://www.ideato.it
+      name: biodec
+      link: https://www.biodec.it
     teacher:
-      name: Marco Colombo
-      picture: marco.png
-      bio: AWS Certified DevOPS at ideato
-      link: http://twitter.com/
+      -
+        name: Serena Lorenzini
+        picture:
+        bio: Ph.D., BioDec
+        link:
     intro: |
-      Questo workshop è rivolto a sistemisti, cloud architect, it managers che già utilizzano i servizi di AWS e che vogliono approfondire gli aspetti legati al design di infrastrutture resilienti e altamente disponibili. Nella prima parte verranno analizzati i servizi che permettono di raggiungere questo obiettivo, fornendo tecniche avanzate e seguendo best practice consigliate da AWS. Nella seconda parte analizzeremo come aumentare la sicurezza delle infrastrutture AWS utilizzando i servizi base e quelli piu recenti tipicamente meno considerati
-    program: |
-      - Architetture tradizionali VS Design for failure
-      - Disegnare e implementare infrastrutture per applicazioni multi-tier scalabili e resilienti
-      - Disaster recovery e business continuity
-      - Gestione del rischio e servizi di protezione del dato su AWS
-      - Tecniche per disegnare infrastrutture per minimizzare e ottimizzare i costi
+      Automatizzare le attività ripetitive e standardizzare gli ambienti è un problema che investe il mondo IT sia dal lato della gestione dei sistemi (Ops) che dal lato dello sviluppo (Dev). Il proliferare delle piattaforme e in particolare l’uso delle soluzioni Cloud ha accentuato il problema, rendendo necessario avere strumenti veloci, affidabili e facili per la gestione di configurazioni e per il continuo rilascio di codice.
 
-    addressed_info: |
-      Alla fine del corso saprai disegnare e implementare infrastrutture cloud AWS performanti, sicure ed affidabili con un’attenzione anche al contenimento e ottimizzazione dei costi.
-    useful_info: |
-      La durata del corso è di una giornata e **si terrà il 25 Ottobre** (il giorno prima del ContainerDay).
-      Qualche giorno prima del corso verrà fornito un voucer di accesso ai servizi AWS a tutti i partecipanti.
-      È responsabilità del partecipante arrivare con portatile configurato e funzionante. Vi daremo tutte le indicazioni utili per la configurazione.
-  -
-    slug: workshop-docker-kubernetes
-    title: Workshop Docker & Kubernetes
-    when: 25 Ottobre 2018, Verona
-    where: Hotel San Marco, Via Longhena 42, 37138, Verona, Italy
-    map: https://goo.gl/maps/iqQ6n6bNAf72
-    ticket: https://www.eventbrite.it/e/biglietti-workshop-docker-kubernetes-container-day-2018-48441549980
-    partner:
-      name: Kiratech
-      link: http://www.kiratech.it
-    teacher:
-      name: Francesco Tornieri
-      picture:
-      bio: "Francesco si occupa di sicurezza informatica e di sistemi open-source da oltre quindici anni. Ha pubblicato numerosi articoli su riviste come Linux Journal e Hakin9. &Egrave; autore del libro \"Linux. Configurarlo al meglio\". &Egrave; membro dell’AIPSI - Associazione Italiana Professionisti Sicurezza Informatica. &Egrave; certificatore CAcert per certificati SSL. Ricopre la carica di assistente universitario presso l'Università Cattolica di Milano. &Egrave; trainer certificato Docker."
-      link:
-    intro: |
-      Il workshop sarà introduttivo alle due tecnologie Docker & Kubernetes per la gestione di un'infrastruttura containerizzata e per la relativa orchestrazione e verrà tenuto da Francesco Tornieri, Official Docker Trainer.
-       Docker è un progetto open source che automatizza il deployment di applicazioni all'intero di Container software, fornendo un'astrazione addizionale grazie alla virtualizzazione a livello di sistema operativo. Docker utilizza le funzionalità di isolamento delle risorse del kernel Linux come ad esempio cgroups e namespaces per consentire a "container" indipendenti di coesistere sulla stessa istanza, evitando l'installazione e la manutenzione di una macchina virtuale.
-       Kubernetes è una piattaforma open source che automatizza le operazioni sui container Linux, eliminando molti dei processi manuali necessari per eseguire il deployment e scalare le applicazioni containerizzate. È possibile creare un cluster di gruppi di host che eseguono container Linux e utilizzare Kubernetes per gestire tali cluster in modo semplice ed efficiente. I cluster possono includere host situati su cloud pubblici, privati o ibridi.
-       Per le aziende che utilizzano i container, la funzione principale per cui viene utilizzato Kubernetes è l’orchestrazione: quest’ultima consente di interagire con interi gruppi di container contemporaneamente, pianificare e implementare un registro dei container, oltre che di fornire servizi di rete, storage, sicurezza e telemetria.
+      **Ansible: la nostra soluzione**
+
+      Ansible è uno strumento per orchestrare l’installazione e la configurazione di sistemi ed applicazioni: permette di definire lo stato di uno o più server in modo prevedibile, replicabile e consistente. Simile in questo a software come Puppet, Chef, Saltstack o CFEngine, esso basa la propria filosofia su una parola chiave: la semplicità d’uso
+      A differenza di altri sistemi, Ansible non necessita di altro che di una connessione SSH tra la macchina che funge da controllore e i server da controllare, e tutto si gestisce con semplici direttive di configurazione contenute in file testuali. Ancora: è una soluzione agentless per cui non è necessario installare nessun client sugli hosts da configurare, ma solo Python e – cosa che non guasta – è anche un prodotto che presenta una curva di apprendimento molto agevole.
+
+      **Cosa avrò imparato alla fine del corso?**
+      - A scrivere playbook e role Ansible per fare partire, fermare e configurare dei server Linux; si imparerà come si definiscono con Ansible i profili di configurazione di vari server, corrispondenti ad usi differenti (*i.e.* web server, database server, server di monitoraggio, eccetera).
+      - Si imparerà, inoltre, come svolgere alcune azioni ripetitive su tutti i server dell'infrastruttura, come ad esempio aggiornare dei pacchetti software, fare deploy di nuovi programmi, eccetera.
+      - Si imparerà a testare il codice Ansible con Molecule, un prodotto del progetto Ansible ufficiale.
+      - Si affronteranno tematiche DevOps come la configurazione della *Continuous Integration* in un ambiente misto Docker/Virtual Machine per testare il nostro codice.
     program: |
-      Il workshop si svolgerà giovedì 25 Ottobre, giorno precedente alla conferenza Container Day 2018, dalle 9:30 alle 18:00 a Verona presso l'Hotel San Marco Via Longhena 42 . Di seguito l’agenda della giornata:
-        - Introduction to Containers
-        - Docker, containers and images
-        - Running and managing containers
-        - Building images
-        - Volumes
-        - Networking
-        - Clustering and orchestrator: intro to swarm
-        - Manage complex architecture: intro to docker compose
-        - Docker DEMO
-        - Intro to Kubernetes
-        - Kubernetes architecture
-        - Kubernetes + Docker
-        - Tipologia di oggetti Kubernetes
-        - Modelli di network
-        - Gestione di connessioni interne ed esterne
-        - Volumi persistenti
-        - Kubernetes DEMO
+      Scaletta corso:
+      - 9:00 Registrazione dei partecipanti
+      - 9:30 Inizio del corso
+      - 11:00 Break
+      - 13:00 Pausa pranzo
+      - 14:30 Ripresa delle attività
+      - 16:00 Break
+      - 18:00 Conclusione
     addressed_info: |
-      È richiesta familiarità con gli ambienti UN*X sia per quanto concerne i concetti di funzionamento (servizi, permessi, filesystem, ...) sia per l'utilizzo dell'ambiente a riga di comando.
+      Il corso si applica a tutti, ma è bene avere una confidenza di base con la shell Bash – si lavorerà su una macchina Vagrant Debian.
     useful_info: |
-      È necessario avere una ambiente VM con docker già preinstallato (fare riferimento alla <a href="https://docs.docker.com/engine/installation/#server-">documentazione ufficiale</a> per avere maggiori informazioni in merito ). Verrà utilizzata la versione Docker CE.
+      La durata del corso è di una giornata e **si terrà il 7 Novembre** (il giorno prima della conferenza).
+      È responsabilità del partecipante arrivare con portatile configurato e funzionante con Vagrant. Vi daremo tutte le indicazioni utili per la configurazione.
+  -
+    slug: corso-kubernetes
+    title: Operare Ambienti di Produzione su Kubernetes
+    when: 7 Novembre 2019, Bologna
+    where: Hotel Savoia Regency, Via del Pilasto 2, 40127, Bologna BO
+    map: https://goo.gl/maps/pT6toDSe3Em
+    ticket: /tickets.html
+    partner:
+      name: sighup
+      link: https://www.sighup.io
+    teacher:
+      -
+        name: Luca Novara
+        picture: luca-novara.jpg
+        bio: Devops Engineer
+        link:
+    intro: |
+      "Questo workshop è rivolto a sistemisti e DevOps engineer che già utilizzano Kubernetes e che vogliono approfondire alcuni aspetti avanzati legati alla gestione di cluster Kubernetes in ambienti di produzione.
+      La prima parte sarà dedicata ai principali aspetti di deployment e mantenimento degli applicativi con particolare attenzione a best practice, troubleshooting, logging e monitoraggio.
+      La seconda parte sarà dedicata alla messa in sicurezza del cluster focalizzandoci sulla gestione degli accessi, la protezione dei dati e la migrazione.
+      L’obiettivo del corso è di fornire ai partecipanti un’esperienza pratica sugli aspetti fondamentali di gestione di un applicativo su cluster Kubernetes."
+    program: |
+      Scaletta corso:
+      - Come deployare applicazioni su Kubernetes seguendo le best practice
+      - Come fare troubleshooting e debugging
+      - Monitoraggio infrastrutturale e applicativo con Prometheus
+      - Logging centralizzato
+      - Autenticazione e autorizzazione
+      - Backup e disaster recovery
+      - Come migrare applicativi da un cluster ad un altro
+    addressed_info: |
+      Alla fine del corso ogni partecipante saprà gestire applicazioni su Kubernetes e avrà sperimentato, con un approccio hands-on, le features di Kubernetes utili per gestire applicazioni in produzione.
+    useful_info: |
+       La durata del corso è di una giornata e si terrà il 7 Novembre (il giorno prima della conferenza). È responsabilità del partecipante arrivare con portatile configurato e funzionante. Qualche giorno prima del corso verranno fornite ulteriori istruzioni per configurare ed installare le applicazioni necessarie.

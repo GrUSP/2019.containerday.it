@@ -44,6 +44,7 @@
       </div>
     </a>
   </div>
+
 </div>
 
 <hr class="hr">
@@ -59,6 +60,7 @@
   <div class="row__column">
     <a href="{{ workshop.ticket }}" target="_blank" class="button button--register">Registrati</a>
   </div>
+
 </div>
 
 
@@ -68,12 +70,15 @@
   <div class="row__column">
     <h3 class="column__title">A chi è rivolto</h3>
     {{ workshop.addressed_info | markdownify }}
-  </div>
-  <div class="row__column">
+
     <h3 class="column__title">Informazioni utili</h3>
     {{ workshop.useful_info | markdownify }}
-  </div>
 
+  </div>
+  <div class="row__column">
+    <h3 class="column__title">Chi Siamo</h3>
+    {{workshop.partner.bio | markdownify }}
+  </div>
   <p class="row__column">
     <a href="{{ workshop.ticket }}" target="_blank" class="button button--register">Registrati</a>
   </p>

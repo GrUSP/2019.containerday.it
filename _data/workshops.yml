@@ -1,35 +1,41 @@
 list:
-  # -
-  #   slug: progettare-evolvere-cloud-aws
-  #   title: Progettare e fare evolvere infrastrutture su AWS
-  #   when: 7 Novembre 2019, Bologna
-  #   where: Hotel Savoia Regency, Via del Pilastro 2, 40127, Bologna BO
-  #   map: https://goo.gl/maps/pT6toDSe3Em
-  #   ticket: /tickets.html
-  #   partner:
-  #     name: ideato
-  #     link: https://www.ideato.it
-  #   teacher:
-  #     -
-  #       name: Marco Colombo
-  #       picture: marco.png
-  #       bio: AWS Certified DevOPS at ideato
-  #       link: https://www.ideato.it
-  #   intro: |
-  #     Questo workshop è rivolto a sistemisti, cloud architect, it managers che già utilizzano i servizi di AWS e che vogliono approfondire gli aspetti legati al design di infrastrutture resilienti e altamente disponibili. Nella prima parte verranno analizzati i servizi che permettono di raggiungere questo obiettivo, fornendo tecniche avanzate e seguendo best practice consigliate da AWS. Nella seconda parte analizzeremo come aumentare la sicurezza delle infrastrutture AWS utilizzando i servizi base e quelli piu recenti tipicamente meno considerati
-  #   program: |
-  #     - Architetture tradizionali VS Design for failure
-  #     - Disegnare e implementare infrastrutture per applicazioni multi-tier scalabili e resilienti
-  #     - Disaster recovery e business continuity
-  #     - Gestione del rischio e servizi di protezione del dato su AWS
-  #     - Tecniche per disegnare infrastrutture per minimizzare e ottimizzare i costi
-  #
-  #   addressed_info: |
-  #     Alla fine del corso saprai disegnare e implementare infrastrutture cloud AWS performanti, sicure ed affidabili con un’attenzione anche al contenimento e ottimizzazione dei costi.
-  #   useful_info: |
-  #     La durata del corso è di una giornata e **si terrà il 7 Novembre** (il giorno prima della conferenza).
-  #     Qualche giorno prima del corso verrà fornito un voucer di accesso ai servizi AWS a tutti i partecipanti.
-  #     È responsabilità del partecipante arrivare con portatile configurato e funzionante. Vi daremo tutte le indicazioni utili per la configurazione.
+  -
+    slug: progettare-evolvere-cloud-aws
+    title: "Progettare ed ottimizzare Infrastrutture Cloud su ASW"
+    when: 7 Novembre 2019, Bologna
+    where: Hotel Savoia Regency, Via del Pilastro 2, 40127, Bologna BO
+    map: https://goo.gl/maps/pT6toDSe3Em
+    ticket: /tickets.html
+    partner:
+      name: flowing
+      link: https://www.flowing.it
+      bio: >
+        Flowing è AWS Consulting Partner e Solution Provider e offre un portafoglio di servizi completo per accompagnare le aziende nel passaggio al Cloud, dal disegno di un piano strategico di adozione del Cloud, allo sviluppo di piattaforme cloud native, alla migrazione verso AWS da altri Cloud vendor o da ambienti on-premises.
+        Siamo focalizzati sull'ottimizzazione costante delle performance e dei costi di gestione delle infrastrutture per massimizzare l'investimento nei servizi Cloud.
+        Gestiamo medie e grandi infrastrutture che ospitano piattaforme FinTech, IoT, Media & Publishing, E-Commerce e applicazioni evolute B2B e B2C.
+    teacher:
+      name: Marco Colombo
+      picture: marco.png
+      bio: AWS Certified DevOPS at flowing
+      link: https://www.flowing.it
+    intro: |
+       Il workshop si rivolge a sistemisti, cloud architect e it managers che utilizzano già i servizi AWS e vogliono approfondire le conoscenze legate al design di infrastrutture resilienti e altamente disponibili.
+       La prima parte del corso prevede un'overview sui servizi AWS e sulle best practice consigliate per la progettazione di infrastrutture cloud solide e scalabili.
+       Nella seconda parte della giornata approfondiremo i principali servizi di AWS come EC2, RDS, Cloudfront e lambda. Applicheremo quanto visto durante la giornata in una esercitazione individuale guidata a conclusione del corso.
+
+    program: |
+      - Architetture tradizionali VS Design for failure
+      - Disegnare e implementare infrastrutture per applicazioni multi-tier scalabili e resilienti
+      - Disaster recovery e business continuity
+      - Gestione del rischio e servizi di protezione del dato su AWS
+      - Tecniche per disegnare infrastrutture per minimizzare e ottimizzare i costi
+
+    addressed_info: |
+      Alla fine del corso saprai progettare e implementare infrastrutture cloud AWS performanti, sicure ed affidabili, e saprai applicare strategie di contenimento e ottimizzazione dei costi.
+    useful_info: |
+      La durata del corso è di una giornata e **si terrà il 7 Novembre** (il giorno prima della conferenza).
+      Qualche giorno prima del corso verrà fornito un voucer di accesso ai servizi AWS a tutti i partecipanti.
+      È responsabilità del partecipante arrivare con portatile configurato e funzionante. Vi daremo tutte le indicazioni utili per la configurazione.
   -
     slug: corso-ansible
     title: Corso Ansible
@@ -41,11 +47,10 @@ list:
       name: biodec
       link: https://www.biodec.it
     teacher:
-      -
-        name: Serena Lorenzini
-        picture:
-        bio: Ph.D., BioDec
-        link:
+      name: Serena Lorenzini
+      picture:
+      bio: Ph.D., BioDec
+      link:
     intro: |
       Automatizzare le attività ripetitive e standardizzare gli ambienti è un problema che investe il mondo IT sia dal lato della gestione dei sistemi (Ops) che dal lato dello sviluppo (Dev). Il proliferare delle piattaforme e in particolare l’uso delle soluzioni Cloud ha accentuato il problema, rendendo necessario avere strumenti veloci, affidabili e facili per la gestione di configurazioni e per il continuo rilascio di codice.
 
@@ -84,11 +89,10 @@ list:
       name: sighup
       link: https://www.sighup.io
     teacher:
-      -
-        name: Luca Novara
-        picture: luca-novara.jpg
-        bio: Devops Engineer
-        link:
+      name: Luca Novara
+      picture: luca-novara.jpg
+      bio: Devops Engineer
+      link:
     intro: |
       "Questo workshop è rivolto a sistemisti e DevOps engineer che già utilizzano Kubernetes e che vogliono approfondire alcuni aspetti avanzati legati alla gestione di cluster Kubernetes in ambienti di produzione.
       La prima parte sarà dedicata ai principali aspetti di deployment e mantenimento degli applicativi con particolare attenzione a best practice, troubleshooting, logging e monitoraggio.

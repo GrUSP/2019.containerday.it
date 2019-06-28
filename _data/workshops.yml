@@ -46,9 +46,10 @@ list:
     partner:
       name: biodec
       link: https://www.biodec.it
+      bio: "BioDec è un gruppo di persone che lavora nell'IT fornendo consulenza, attività di sviluppo software, formazione, progettazione e manutenzione. Le nostre competenze sono nella bioinformatica, nel calcolo scientifico, nella progettazione e nella gestione di infrastrutture informatiche complesse. BioDec ha ormai dieci anni di età e ha avuto modo di gestire progetti complessi per centri di ricerca, piccole e medie aziende, multinazionali e nell'ambito di progetti di ricerca europei (settimo programma quadro). BioDec sostiene il software libero e i formati aperti e adotta tecnologie non proprietarie."
     teacher:
       name: Serena Lorenzini
-      picture:
+      picture: teacher.jpg
       bio: Ph.D., BioDec
       link:
     intro: |
@@ -88,6 +89,7 @@ list:
     partner:
       name: sighup
       link: https://www.sighup.io
+      bio: "#Kubernetes and #CloudNative. We help companies and enterprises during their journey towards software-defined infrastructures."
     teacher:
       name: Luca Novara
       picture: luca-novara.jpg

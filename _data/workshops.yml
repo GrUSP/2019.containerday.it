@@ -7,7 +7,7 @@ list:
     map: https://goo.gl/maps/pT6toDSe3Em
     ticket: /tickets.html
     partner:
-      name: flowing
+      name: Flowing
       link: https://www.flowing.it
       bio: >
         Flowing è AWS Consulting Partner e Solution Provider e offre un portafoglio di servizi completo per accompagnare le aziende nel passaggio al Cloud, dal disegno di un piano strategico di adozione del Cloud, allo sviluppo di piattaforme cloud native, alla migrazione verso AWS da altri Cloud vendor o da ambienti on-premises.
@@ -16,12 +16,13 @@ list:
     teacher:
       name: Marco Colombo
       picture: marco.png
-      bio: AWS Certified DevOPS at flowing
+      bio: AWS Certified DevOPS at Flowing
       link: https://www.flowing.it
     intro: |
        Il workshop si rivolge a sistemisti, cloud architect e it managers che utilizzano già i servizi AWS e vogliono approfondire le conoscenze legate al design di infrastrutture resilienti e altamente disponibili.
        La prima parte del corso prevede un'overview sui servizi AWS e sulle best practice consigliate per la progettazione di infrastrutture cloud solide e scalabili.
        Nella seconda parte della giornata approfondiremo i principali servizi di AWS come EC2, RDS, Cloudfront e lambda. Applicheremo quanto visto durante la giornata in una esercitazione individuale guidata a conclusione del corso.
+       Alla fine del corso saprai progettare e implementare infrastrutture cloud AWS performanti, sicure ed affidabili, e saprai applicare strategie di contenimento e ottimizzazione dei costi.
 
     program: |
       - Architetture tradizionali VS Design for failure
@@ -31,7 +32,8 @@ list:
       - Tecniche per disegnare infrastrutture per minimizzare e ottimizzare i costi
 
     addressed_info: |
-      Alla fine del corso saprai progettare e implementare infrastrutture cloud AWS performanti, sicure ed affidabili, e saprai applicare strategie di contenimento e ottimizzazione dei costi.
+      Il workshop si rivolge a sistemisti, cloud architect e it managers che utilizzano già i servizi AWS e vogliono approfondire le conoscenze legate al design di infrastrutture resilienti e altamente disponibili.
+
     useful_info: |
       La durata del corso è di una giornata e **si terrà il 7 Novembre** (il giorno prima della conferenza).
       Qualche giorno prima del corso verrà fornito un voucer di accesso ai servizi AWS a tutti i partecipanti.

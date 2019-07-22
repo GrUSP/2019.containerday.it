@@ -38,6 +38,9 @@ platinum:
     -
       url: http://www.flowing.it?utm_source=containerday
       image: flowing.svg
+    -
+      url: https://www.kiratech.it/?utm_source=containerday
+      image: kiratech.svg      
 
 gold:
   price: € 1,500

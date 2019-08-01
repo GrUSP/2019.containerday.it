@@ -151,26 +151,26 @@ list:
       - Introduzione al concetto di Cloud Native security
       - Introduzione a Kubernetes
       - Concetti base su Kubernetes
-        o pod
-        o nodi
-        o service
-        o namespace-componenti Kubernetes
-        o api server
-        o kubelet
-        o CRI
-        o etcd server
-        o dashboard
-        o metriche
+        - pod
+        - nodi
+        - service
+        - namespace-componenti Kubernetes
+        - api server
+        - kubelet
+        - CRI
+        - etcd server
+        - dashboard
+        - metriche
       - analisi dei rischi e definizione di una superficie di attacco
       - analisi dei vettori di attacco
       - introduzione alle politiche di sicurezza di Kubernetes
-        o gestione degli upgrade
-        o Authentication e Authorization
-        o Kubernetes e auth
-        o network policy
-        o RBAC
-        o Introduzione ad istio e alla sicurezza nella comunicazione tra applicazioni
-        o Securing networking data path (cilium)
+        - gestione degli upgrade
+        - Authentication e Authorization
+        - Kubernetes e auth
+        - network policy
+        - RBAC
+        - Introduzione ad istio e alla sicurezza nella comunicazione tra applicazioni
+        - Securing networking data path (cilium)
       - concetti base per l'hardening della CRI
 
       Il docente si riserva di effettuare delle demo dimostrative al termine del Workshop.

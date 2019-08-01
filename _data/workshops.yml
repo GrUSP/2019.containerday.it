@@ -115,3 +115,69 @@ list:
       Alla fine del corso ogni partecipante saprà gestire applicazioni su Kubernetes e avrà sperimentato, con un approccio hands-on, le features di Kubernetes utili per gestire applicazioni in produzione.
     useful_info: |
        La durata del corso è di una giornata e si terrà il 7 Novembre (il giorno prima della conferenza). È responsabilità del partecipante arrivare con portatile configurato e funzionante. Qualche giorno prima del corso verranno fornite ulteriori istruzioni per configurare ed installare le applicazioni necessarie.
+  -
+    slug: kubernetes-security
+    title: "Kubernetes Security"
+    when: 7 Novembre 2019, Bologna
+    where: Hotel Savoia Regency, Via del Pilastro 2, 40127, Bologna BO
+    map: https://goo.gl/maps/pT6toDSe3Em
+    ticket: /tickets.html
+    partner:
+      name: Kiratech
+      link: https://www.kiratech.it/
+      bio: >
+        CNCF Silver Member & Linux Foundation Partner, Kubernetes Certified Service Provider e Training Partner.
+    teacher:
+      name: Francesco Tornieri
+      picture: 
+      bio: Francesco è Docker & Kubernetes Trainer e DevOps Expert e si occupa di sicurezza informatica e di sistemi open-source da oltre quindici anni. Ha pubblicato numerosi articoli su riviste come Linux Journal e Hakin9. È autore del libro "Linux. Configurarlo al meglio". È membro dell’AIPSI - Associazione Italiana Professionisti Sicurezza Informatica, certificatore CAcert per certificati SSL. Ricopre la carica di cultore della materia presso l'Università Cattolica di Milano, cattedre di "Informatica 2" e "Sistemi operativi per le banche on-line" nonchè trainer certificato Docker.
+      link: https://www.kiratech.it/
+    intro: |
+       Kubernetes sta riscontrando un enorme successo sulla scena tecnologica da due anni a questa parte: le principali aziende in tutto il mondo hanno adottato o stanno adottando tale piattaforma per orchestrare e ridimensionare i propri carichi di lavoro basati su container nell’ottica di un approccio Cloud Native. 
+       Ma come per ogni nuova tecnologia complessa e in rapido sviluppo, è importante **comprendere qual è il relativo livello di sicurezza** e come poter rendere l’implementazione e l’utilizzo di Kubernetes **secure-by-design**.
+    program: |
+      Utilizzi Kubernetes o vorresti iniziare ad usarlo, ma vuoi approfondire:
+      - quali sono le criticità della piattaforma dal punto di vista della security?
+      - come misurare il livello di security e i rischi della piattaforma?
+      - come proteggere le immagini dei container da vulnerabilità note e abusi da parte di terzi? 
+      - come rafforzare le policy a livello di runtime dei container e di rete? 
+      - come gestire meglio informazioni riservate, come ad esempio credenziali?
+      Durante questo workshop approfondiremo risalto le **criticità**, lato security, dell'orchestratore k8s. Durante la giornata verranno evidenziati i **potenziali rischi** ed eventuali **contromisure** analizzando gli strumenti che k8s mette a disposizione.
+      
+      **Il Workshop ti aiuterà a comprendere:**
+      come **implementare un ambiente sicuro, solido e agile** per i tuoi sistemi di produzione.
+      
+      AGENDA:
+      - Introduzione al concetto di Cloud Native security
+      - Introduzione a Kubernetes
+      - Concetti base su Kubernetes
+        o pod
+        o nodi
+        o service
+        o namespace-componenti Kubernetes
+        o api server
+        o kubelet
+        o CRI
+        o etcd server
+        o dashboard
+        o metriche
+      - analisi dei rischi e definizione di una superficie di attacco
+      - analisi dei vettori di attacco
+      - introduzione alle politiche di sicurezza di Kubernetes
+        o gestione degli upgrade
+        o Authentication e Authorization
+        o Kubernetes e auth
+        o network policy
+        o RBAC
+        o Introduzione ad istio e alla sicurezza nella comunicazione tra applicazioni
+        o Securing networking data path (cilium)
+      - concetti base per l'hardening della CRI
+
+      Il docente si riserva di effettuare delle demo dimostrative al termine del Workshop.
+
+    addressed_info: |
+      Conoscenza minima di Kubernetes.
+      
+    useful_info: |
+      La durata del corso è di una giornata e **si terrà il 7 Novembre** (il giorno prima della conferenza).
+      Al termine del workshop verrà rilasciata una versione ridotta delle slides presentate, composta dal materiale non coperto da Copyright.

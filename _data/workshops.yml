@@ -129,7 +129,7 @@ list:
         CNCF Silver Member & Linux Foundation Partner, Kubernetes Certified Service Provider e Training Partner.
     teacher:
       name: Francesco Tornieri
-      picture: 
+      picture: francesco-tornieri.jpg
       bio: Francesco è Docker & Kubernetes Trainer e DevOps Expert e si occupa di sicurezza informatica e di sistemi open-source da oltre quindici anni. Ha pubblicato numerosi articoli su riviste come Linux Journal e Hakin9. È autore del libro "Linux. Configurarlo al meglio". È membro dell’AIPSI - Associazione Italiana Professionisti Sicurezza Informatica, certificatore CAcert per certificati SSL. Ricopre la carica di cultore della materia presso l'Università Cattolica di Milano, cattedre di "Informatica 2" e "Sistemi operativi per le banche on-line" nonchè trainer certificato Docker.
       link: https://www.kiratech.it/
     intro: |

@@ -130,7 +130,7 @@ list:
     teacher:
       name: Francesco Tornieri
       picture: francesco-tornieri.jpg
-      bio: Francesco è Docker & Kubernetes Trainer e DevOps Expert e si occupa di sicurezza informatica e di sistemi open-source da oltre quindici anni. Ha pubblicato numerosi articoli su riviste come Linux Journal e Hakin9. È autore del libro "Linux. Configurarlo al meglio". È membro dell’AIPSI - Associazione Italiana Professionisti Sicurezza Informatica, certificatore CAcert per certificati SSL. Ricopre la carica di cultore della materia presso l'Università Cattolica di Milano, cattedre di "Informatica 2" e "Sistemi operativi per le banche on-line" nonchè trainer certificato Docker.
+      bio: La giornata di formazione verrà tenuta da Kiratech, CNCF Silver Member & Linux Fountation Partner, Kubernetes Certified Service Provider e Training Partner, nella persona di Francesco Tornieri. Francesco è Docker & Kubernetes Trainer e DevOps Expert e si occupa di sicurezza informatica e di sistemi open-source da oltre quindici anni. Ha pubblicato numerosi articoli su riviste come Linux Journal e Hakin9. È autore del libro "Linux. Configurarlo al meglio". È membro dell’AIPSI - Associazione Italiana Professionisti Sicurezza Informatica, certificatore CAcert per certificati SSL. Ricopre la carica di cultore della materia presso l'Università Cattolica di Milano, cattedre di "Informatica 2" e "Sistemi operativi per le banche on-line" nonchè trainer certificato Docker.
       link: https://www.kiratech.it/
     intro: |
        Kubernetes sta riscontrando un enorme successo sulla scena tecnologica da due anni a questa parte: le principali aziende in tutto il mondo hanno adottato o stanno adottando tale piattaforma per orchestrare e ridimensionare i propri carichi di lavoro basati su container nell’ottica di un approccio Cloud Native. 
@@ -176,8 +176,12 @@ list:
       Il docente si riserva di effettuare delle demo dimostrative al termine del Workshop.
 
     addressed_info: |
-      Conoscenza minima di Kubernetes.
+      A coloro che sono interessati a capire il modello di security ed hardening utilizzato da k8s, nello specifico: 
+      - Sviluppatori che desiderano sviluppare applicazioni sicure in  ambiente Kubernetes; 
+      - Sysadmin che sono interessati alle buone pratiche di sicurezza per le piattaforme container Kubernetes;
+      - Architect interessati alla progettazione di soluzioni sicure basate su Kubernetes
       
     useful_info: |
-      La durata del corso è di una giornata e **si terrà il 7 Novembre** (il giorno prima della conferenza).
+      La durata del corso è di una giornata e **si terrà il 7 Novembre** (il giorno prima della conferenza), dalle ore 9:30 alle 18:00.
+      Tutti i partecipanti dovranno avere un k8s di test. 
       Al termine del workshop verrà rilasciata una versione ridotta delle slides presentate, composta dal materiale non coperto da Copyright.

@@ -1,7 +1,7 @@
 # place images in:
 # img/conf-name/speaker/file.jpg
 call_for_paper_url: https://goo.gl/forms/56krLut9xd2WuEtb2
-call_for_paper: true
+call_for_paper: false
 list:
   # -
   #   id: alessandro-mazzoli

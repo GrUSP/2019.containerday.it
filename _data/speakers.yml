@@ -3,10 +3,24 @@
 call_for_paper_url: https://goo.gl/forms/56krLut9xd2WuEtb2
 call_for_paper: false
 list:
-  # -
-  #   id: alessandro-mazzoli
-  #   description:
-  #   image: mazzoli.jpg
-  #   first_name: Alessandro
-  #   last_name: Mazzoli
-  #   twitter: alendmazz
+  -
+    id: paolo-tonin
+    description:
+    image: paolo-tonin.jpg
+    first_name: Paolo
+    last_name: Tonin
+    twitter: paolopstonin
+  -
+    id: fabio-mora
+    description:
+    image: fabio-mora.jpg
+    first_name: Fabio
+    last_name: Mora
+    twitter: morafabio
+  -
+    id: martino-fornasa
+    description:
+    image: martino-fornasa.jpg
+    first_name: Martino
+    last_name: Fornasa
+    twitter: mfornasa

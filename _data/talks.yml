@@ -1,6 +1,18 @@
-# -
-#   speaker_id:
-#     - alessandro-mazzoli
-#   title: "KOPS - automate, version and deploy a fully production Kubernetes cluster on AWS"
-#   extract: >
-#     Vedrai come sarà possibile creare un cluster Kubernetes, subito production ready con https://github.com/kubernetes/kops, multi-AZ, multi-master generando infine un template Terraform con cui potrai mantenere la tua infrastruttura
+-
+  speaker_id: fabio-mora
+  title: "La Unix Way vista da un DevOps."
+  extract: >
+    "Con l'acronimo KISS (Keep It Simple and Stupid) si evoca un modo di fare software antico: la UNIX Way. Ma non è tutto racchiuso lì dentro, si tratta piuttosto di una filosofia progenitrice del movimento DevOps. Declinata oggi nel mondo Linux da migliaia di tecnici e organizzazioni, che include assunti come modularità, semplicità, composizione e chiarezza nel fare.
+    Tutto evolve portandosi dietro principi solidi e al tempo stesso pronti al cambiare: dai modelli open-source ai flussi Git, dalla gestione dei pacchetti ai container, dalle infrastrutture a risorse finite agli orchestratori del cloud; fino a mescolare le definizioni stesse di sistema operativo e applicazione tra user-space e kernel-space. Henry Spencer, padre delle RegEx, scrisse coloro che non capiscono Unix sono condannati a inventarlo di nuovo.
+    In questo talk racconto ciò che ho imparato da questa filosofia che già in tempi non sospetti si occupava di sistemi complessi, e ha ancora molto da regalare a chi è coinvolto nella produzione e nel mantenimento di software."
+-
+  speaker_id: paolo-tonin
+  title: "State of Windows Containers, how to modernise your IT for Windows Applications"
+  extract: >
+      "L'adozione dei container in ambiente Windows ha dovuto sottostare a molti compromessi, tuttavia ultimamente gli investimenti di Microsoft ha reso utilizzabile questa tecnologia anche in ambito Enterprise su applicazioni critiche.
+      Forniremo una visione globale dell'evoluzione dello sviluppo dei container su piattaforma Windows e alcuni approcci su come affrontare l'adozione di questa tecnologia per modernizzare l'infrastruttura IT. Affronteremo anche come sia possibile utilizzare i container anche in ambiente Cloud su tecnologia Microsoft"
+-
+  speaker_id: martino-fornasa
+  title: Writing Cloud-Native Applications for Kubernetes
+  extract: >
+      In this talk Martino will provide guidelines for software developers building applications targeting a Kubernetes container platform. We will start by mapping the well-known "Twelve-Factor App" methodology to Kubernetes core constructs, then we will show how to leverage Kubernetes features to write an application which is scalable, observable, and resilient.

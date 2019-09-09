@@ -24,3 +24,24 @@ list:
     first_name: Martino
     last_name: Fornasa
     twitter: mfornasa
+  -
+    id: adriano-pezzuto
+    description:
+    image: adriano-pezzuto.jpg
+    first_name: Adriano
+    last_name: Pezzuto
+    twitter:
+  -
+    id: giuseppa-muscianisi
+    description:
+    image: giuseppa-muscianisi.jpg
+    first_name: Giuseppa
+    last_name: Muscianisi
+    twitter:
+  -
+    id: paolo-mainardi
+    description:
+    image: paolo-mainardi.png
+    first_name: Paolo
+    last_name: Mainardi
+    twitter: paolomainardi

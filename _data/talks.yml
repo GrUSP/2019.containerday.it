@@ -16,3 +16,21 @@
   title: Writing Cloud-Native Applications for Kubernetes
   extract: >
       In this talk Martino will provide guidelines for software developers building applications targeting a Kubernetes container platform. We will start by mapping the well-known "Twelve-Factor App" methodology to Kubernetes core constructs, then we will show how to leverage Kubernetes features to write an application which is scalable, observable, and resilient.
+-
+  speaker_id: adriano-pezzuto
+  title: Cloud Native for the Edge Computing
+  extract: >
+      Edge Computing is the method of processing data where it is being generated, at the edge of a network, allowing for real time data-processing without latency as opposed to sending data to a Public Cloud. This talks will dive into the benefits of using Kubernetes and other Cloud Native technologies like serverless and containers as part of the strategy for the Internet of Things.
+-
+  speaker_id: giuseppa-muscianisi
+  title: Containerization of parallel MPI and accelerated applications on HPC systems
+  extract: >
+      Using containers in Linux has become a common practice in many business environments. Technologies like Docker or Kubernetes, allow to create self-contained environments or ''containers'' that are designed for a specific purpose. Unfortunately, the use of these technologies in High Performance Computing (HPC) environment has been problematic due to security concerns. The open source project Singularity addresses this problem, allowing for the creation of containers that maintain the security infrastructure of the machine they are running on.
+      After a general introduction of Singularity, two containerized applications are presented: 1) Quantum Espresso, the integrated suite of Open-Source computer codes for electronic-structure calculations and materials modelling at the nanoscale, and 2) Tensorflow, the open-souce software library for machine learning. The performance comparison between bare metal and container executions is provided, showing a negligible overhead introduction in the containerized version of the applications. All the tests have been run on the supercomputing clusters installed in CINECA.
+-
+  speaker_id: paolo-mainardi
+  title: The path to a Serverless-native era with Kubernetes
+  extract: >
+      "In questo talk analizzeremo come il paradigma Serverless sta cambiando il modo di sviluppare il design delle applicazioni, incoraggiando un architettura a (micro) servizi, ragionando su un modello FaaS (Functions as a service).
+      Kubernetes grazie ad alcuni framework come Knative, Openfaas, Kubeless, permette dunque di implementare questo modello sulla propria infrastruttura.
+      Vedremo ogni aspetto, dalla security, all'observability fino alle best practices. "

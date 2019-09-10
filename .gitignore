@@ -1,4 +1,7 @@
+_frontend/temp
 _site/
 .sass-cache/
 .jekyll-metadata
 node_modules/
+vendor
+gulpfile.js

@@ -45,3 +45,10 @@ list:
     first_name: Paolo
     last_name: Mainardi
     twitter: paolomainardi
+  -
+    id: serena-lorenzini
+    description:
+    image: serena-lorenzini.png
+    first_name: Serena
+    last_name: Lorenzini
+    twitter: 

@@ -34,3 +34,8 @@
       "In questo talk analizzeremo come il paradigma Serverless sta cambiando il modo di sviluppare il design delle applicazioni, incoraggiando un architettura a (micro) servizi, ragionando su un modello FaaS (Functions as a service).
       Kubernetes grazie ad alcuni framework come Knative, Openfaas, Kubeless, permette dunque di implementare questo modello sulla propria infrastruttura.
       Vedremo ogni aspetto, dalla security, all'observability fino alle best practices. "
+-
+  speaker_id: serena-lorenzini
+  title: Provisioning di container Docker usando Ansible: the good, the bad and the ugly
+  extract: >
+      Lo scenario tipico dell'utilizzo di Ansible è il provisioning di sistemi linux. Una applicazione meno nota, ma che sta prendendo piede, è la configurazione di container Docker. In questo talk analizzeremo alcuni approcci à la Ansible per fare provisioning di container, mettendo in luce pro e contro di ciascuno.

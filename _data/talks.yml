@@ -39,3 +39,17 @@
   title: "Provisioning di container Docker usando Ansible: the good, the bad and the ugly"
   extract: >
       Lo scenario tipico dell'utilizzo di Ansible è il provisioning di sistemi linux. Una applicazione meno nota, ma che sta prendendo piede, è la configurazione di container Docker. In questo talk analizzeremo alcuni approcci à la Ansible per fare provisioning di container, mettendo in luce pro e contro di ciascuno.
+-
+  speaker_id: gabriele-santomaggio
+  title: "Deploy e monitoring di un RabbitMQ cluster su Kubernetes"
+  extract: >
+      In questo talk vedremo step by step il deploy live di un RabbitMQ Cluster su K8s con Helm e Charts.
+      Analizzeremo le problematiche legate alla scalabilità  del cluster ed il monitoring con Prometheus e Grafana.
+      Un caso d'uso reale sul quale stiamo lavorando in SUSE.
+-
+  speaker_id: paolo-ferretti
+  title: "Multi container applications with Docker Compose"
+  extract: >
+      "Docker è ottimo per applicazioni singole, ma è sicuramente meglio per applicazioni multi-container!
+      In questo talk vedremo come possiamo usare Docker Compose per riprodurre fedelmente sulla nostra macchina locale i nostri stack di produzione.
+      Analizzeremo anche il caso di una applicazione sviluppata da noi e testabile in diversi ambienti grazie alla componibilità degli stack di Docker Compose."

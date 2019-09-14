@@ -55,14 +55,14 @@ list:
   -
     id: gabriele-santomaggio
     description:
-    image: gabriele-santomaggio.png
+    image: gabriele-santomaggio.jpg
     first_name: Gabriele
     last_name: Santomaggio
     twitter: gsantomaggio
   -
     id: paolo-ferretti
     description:
-    image: paolo-ferretti.png
+    image: paolo-ferretti.jpg
     first_name: Paolo
     last_name: Ferretti
     twitter: paoferretti

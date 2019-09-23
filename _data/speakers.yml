@@ -41,7 +41,28 @@ list:
   -
     id: paolo-mainardi
     description:
-    image: paolo-mainardi.png
+    image: paolo-mainardi.jpg
     first_name: Paolo
     last_name: Mainardi
     twitter: paolomainardi
+  -
+    id: serena-lorenzini
+    description:
+    image: serena-lorenzini.png
+    first_name: Serena
+    last_name: Lorenzini
+    twitter:
+  -
+    id: gabriele-santomaggio
+    description:
+    image: gabriele-santomaggio.jpg
+    first_name: Gabriele
+    last_name: Santomaggio
+    twitter: gsantomaggio
+  -
+    id: paolo-ferretti
+    description:
+    image: paolo-ferretti.jpg
+    first_name: Paolo
+    last_name: Ferretti
+    twitter: paoferretti

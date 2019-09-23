@@ -1,6 +1,6 @@
 name: ContainerDay
 utm_source: containerday
-og_image: https://2019.containerday.it/img/confs/containerday/header.png
+og_image: https://2019.containerday.it/img/themes/containerday/header.png
 og_description: Una giornata interamente dedicata a Docker, Kubernetes ed alle tecnologie di virtualizzazione per il mondo DevOps. 8 sessioni tecniche presentate da professionisti che fanno della scalabilità e gestibilità del software la sfida di ogni giorno.
 slug: containerday
 url: https://2019.containerday.it

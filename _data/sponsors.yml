@@ -45,6 +45,9 @@ platinum:
       url: https://www.kiratech.it/?utm_source=containerday
       image: kiratech.svg
     -
+      url: http://www.kireygroup.com/?utm_source=containerday
+      image: kirey.svg      
+    -
       url: https://sighup.io/?utm_source=containerday
       image: sighup.svg
 

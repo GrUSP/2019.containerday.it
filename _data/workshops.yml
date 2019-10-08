@@ -2,7 +2,7 @@ list:
   -
     slug: progettare-evolvere-cloud-aws
     title: "Progettare ed ottimizzare Infrastrutture Cloud su AWS"
-    when: 7 Novembre 2019, Bologna
+    when: 7 Novembre 2019, Bologna. Ore 9:30 - 18:00  
     where: Hotel Savoia Regency, Via del Pilastro 2, 40127, Bologna BO
     map: https://goo.gl/maps/pT6toDSe3Em
     ticket: /tickets.html
@@ -41,7 +41,7 @@ list:
   -
     slug: corso-ansible
     title: Corso Ansible
-    when: 7 Novembre 2019, Bologna
+    when: 7 Novembre 2019, Bologna. Ore 9:30 - 18:00  
     where: Hotel Savoia Regency, Via del Pilastro 2, 40127, Bologna BO
     map: https://goo.gl/maps/pT6toDSe3Em
     ticket: /tickets.html
@@ -84,7 +84,7 @@ list:
   -
     slug: corso-kubernetes
     title: Operare Ambienti di Produzione su Kubernetes
-    when: 7 Novembre 2019, Bologna
+    when: 7 Novembre 2019, Bologna. Ore 9:30 - 18:00  
     where: Hotel Savoia Regency, Via del Pilasto 2, 40127, Bologna BO
     map: https://goo.gl/maps/pT6toDSe3Em
     ticket: /tickets.html
@@ -119,7 +119,7 @@ list:
     slug: kubernetes-security
     title: "Kubernetes Security"
     subtitle: Intro alle criticità e definizione delle politiche di sicurezza del container orchestrator più diffuso
-    when: 7 Novembre 2019, Bologna
+    when: 7 Novembre 2019, Bologna. Ore 9:30 - 18:00  
     where: Hotel Savoia Regency, Via del Pilastro 2, 40127, Bologna BO
     map: https://goo.gl/maps/pT6toDSe3Em
     ticket: /tickets.html

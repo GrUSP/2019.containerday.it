@@ -46,7 +46,10 @@ platinum:
       image: kiratech.svg
     -
       url: http://www.kireygroup.com/?utm_source=containerday
-      image: kirey.svg      
+      image: kirey.svg
+    -
+      url: https://www.microsoft.com/?utm_source=containerday
+      image: microsoft.svg
     -
       url: https://sighup.io/?utm_source=containerday
       image: sighup.svg
@@ -76,12 +79,15 @@ silver:
   max: 32
   list:
     -
-      url: https://www.workwave.com/?utm_source=containerday
-      image: workwave.svg
-    -
       url: https://www.biodec.it/?utm_source=containerday
       image: biodec.svg
-      
+    -
+      url: http://www.mia-platform.eu/?utm_source=containerday
+      image: mia-platform.svg
+    -
+      url: https://www.workwave.com/?utm_source=containerday
+      image: workwave.svg
+
 bronze:
   price: € 500
   offer:

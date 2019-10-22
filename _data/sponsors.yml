@@ -66,7 +66,10 @@ gold:
 
   max: 16
   list:
-
+    -
+      url: https://www.sparkfabrik.com/it/index.html?utm_source=containerday
+      image: sparkfabrik.svg
+      
 silver:
   price: € 750
   offer:
@@ -95,4 +98,7 @@ bronze:
     - Logo sul sito
     - 2 biglietti scontati del 10%
   max: 64
-  list:
+  list: 
+    -
+      url: https://www.cineca.it/?utm_source=containerday
+      image: cineca.svg

@@ -53,3 +53,14 @@
       "Docker è ottimo per applicazioni singole, ma è sicuramente meglio per applicazioni multi-container!
       In questo talk vedremo come possiamo usare Docker Compose per riprodurre fedelmente sulla nostra macchina locale i nostri stack di produzione.
       Analizzeremo anche il caso di una applicazione sviluppata da noi e testabile in diversi ambienti grazie alla componibilità degli stack di Docker Compose."
+-
+  speaker_id: sascha-grunert
+  title: "Kubeflow - Data Science on Steroids"
+  extract: >
+      "Artificial intelligence and machine learning are the most hyped topics in software development these days!
+      The major goal is to get an understandable output from a huge set of unmanageable input data. 
+      Standard de facto frameworks TensorFlow and PyTorch established a rich set of features over time by being well maintained under the hood, but they they’re not enough to address challenges in terms of CI/CD.
+      Kubernetes is emerging as the new, easier, build and test infrastructure in this arena.
+      In this talk we will discover the possibilities to utilize the joint forces of Kubernetes and Data Science. For this we have chosen to elaborate Kubeflow, one of the most common open source cloud native platforms for machine learning.
+      Kubeflow is a project which is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable and scalable.
+      Join us and we will discover the exciting features of Kubeflow together, like spawning and managing Jupyter servers and creating our very own machine learning pipelines from scratch"

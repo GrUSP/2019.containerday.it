@@ -96,3 +96,6 @@ bronze:
     - 2 biglietti scontati del 10%
   max: 64
   list:
+    -
+      url: https://www.cineca.it/?utm_source=containerday
+      image: cineca.svg  
